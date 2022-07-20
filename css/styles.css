@@ -1,0 +1,33 @@
+body {
+  background-color: #E7F6F2;
+  /*max-width: max-content;
+  margin: auto;*/
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #A5C9CA;
+  border-width: 10px;
+  width: 15%;
+}
+
+h1 {
+  color: #395B64;
+}
+
+h2 {
+  color: #395B64;
+}
+
+h3 {
+  color: #607B83;
+}
+h3:hover {
+  color: #395B64;
+}
+
+.dark {
+  color: #BC9F9E;
+}
